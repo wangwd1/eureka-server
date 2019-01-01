@@ -40,10 +40,10 @@
             <artifactId>spring-cloud-starter-eureka-server</artifactId>
         </dependency>
         <!--以下是spring-security的标签,引入此包访问注册中心UI会让输入用户名和密码-->
-        <dependency>
+        <!--<dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
-        </dependency>
+        </dependency>-->
         <!--以下是fastJson的标签-->
         <dependency>
             <groupId>com.alibaba</groupId>
