@@ -78,7 +78,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>com.Application</mainClass>
+                    <mainClass>com.minihole.Application</mainClass>
                 </configuration>
             </plugin>
             <plugin>
